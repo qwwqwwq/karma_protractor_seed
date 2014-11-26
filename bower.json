@@ -1,0 +1,11 @@
+{
+  "name": "karma_example",
+  "version": "0.1.0",
+  "dependencies": {
+    "angular": "~1.2.0",
+    "angular-resource": "~1.2.0",
+    "angular-route": "~1.2.0",
+    "jquery": "~1.9.1",
+    "angular-mocks": "~1.2.0"
+  }
+}
